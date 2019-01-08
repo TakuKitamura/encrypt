@@ -1,0 +1,7 @@
+# encrypt by USB
+
+## Start
+
+```sh
+python3 __main__.py
+```
